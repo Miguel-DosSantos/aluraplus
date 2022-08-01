@@ -18,8 +18,13 @@ body{
     height: 100vh;
     background-repeat: no-repeat;
 }
+h4{
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
 p, h1{
-    color:#FFFFFF;
+    color: #FFFFFF;
     text-align: center;
     font-size: 28px;
     font-family: 'Inter', sans-serif;
@@ -139,7 +144,7 @@ img{
     position: absolute;
     top:2724px;
     left:973px;
-    width: 450px;
+    width: 400px;
 
 }
 .imgespecial{
@@ -162,4 +167,19 @@ img{
     font-size: 48px;
 }
 
+#img6{
+    position: absolute;
+    width: 102px;
+    height: 35.28px;
+    left: 580px;
+    top: 3060px;
+     box-sizing: content-box;
+}
 
+#div6{
+    position: absolute;
+width: 1200px;
+height: 207.99px;
+left: 120px;
+top: 3128px;
+}
